@@ -205,3 +205,5 @@ These are the notebooks for the tutorial.
 .. _n09_control.ipynb: http://nbviewer.ipython.org/github/pydy/pydy-tutorial-human-standing/blob/master/notebooks/n09_control.ipynb
 
 Hello there, I'm cool!
+
+We have a lot of tasks to do! Woow!
