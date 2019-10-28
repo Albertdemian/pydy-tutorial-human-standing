@@ -207,3 +207,5 @@ These are the notebooks for the tutorial.
 Hello there, I'm cool!
 
 We have a lot of tasks to do! Woow!
+
+I need advise! 
