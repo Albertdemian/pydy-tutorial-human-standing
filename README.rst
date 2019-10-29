@@ -230,4 +230,6 @@ new section:
 my grades are going dooowwwwwwn!!!
 
 
-Hello again I am albert 
+Hello again I am albert. 
+
+Goodbye.
