@@ -1,3 +1,6 @@
+
+Hello welcome to the Programming world. your code may work and may not but in both cases you will have no idea why. 
+
 Introduction
 ============
 
