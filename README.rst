@@ -209,9 +209,4 @@ Hello there, I'm cool!
 We have a lot of tasks to do! Woow!
 
 <<<<<<< HEAD
-I need advise! 
-=======
-trying putting your finger in the usb port wouldn't upload information to your brain.  
->>>>>>> finger
 
-Turns out I'm not cool at all
