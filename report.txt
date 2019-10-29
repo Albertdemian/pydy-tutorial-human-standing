@@ -23,3 +23,5 @@ modifications:
 - Turns out I did the same mistake with "right_arm" branch and tried to merge conflicts but this time conflicts were many 
 
 - I merged the 3 branches but I deleted the last branch "right_arm" 
+
+- I then removed the folder 'notebooks' 
