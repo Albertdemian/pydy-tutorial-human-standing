@@ -150,7 +150,7 @@ https://github.com/pydy/pydy-tutorial-human-standing/releases
 
 and then extract the zip file.
 
-Use
+Use all of it: 
 ===
 
 From the terminal, navigate to the extracted tutorial directory, for example::
