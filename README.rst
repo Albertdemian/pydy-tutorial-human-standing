@@ -180,6 +180,8 @@ click to open them and execute.
 Notebooks
 =========
 
+**** who needs python while you can use matlab*
+
 These are the notebooks for the tutorial.
 
 - [15 min] n00_python_intro.ipynb_
