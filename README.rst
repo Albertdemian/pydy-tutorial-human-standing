@@ -195,3 +195,25 @@ We have a lot of tasks to do! Woow!
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
+=======
+Turns out I'm not cool at all
+
+
+
+
+
+
+
+
+
+
+new section:
+===========
+my grades are going dooowwwwwwn!!!
+
+
+Hello again I am albert. 
+
+Goodbye.
+>>>>>>> right_arm
