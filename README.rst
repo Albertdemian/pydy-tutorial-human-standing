@@ -215,3 +215,16 @@ trying putting your finger in the usb port wouldn't upload information to your b
 >>>>>>> finger
 
 Turns out I'm not cool at all
+
+
+
+
+
+
+
+
+
+
+new section:
+===========
+my grades are going dooowwwwwwn!!!
