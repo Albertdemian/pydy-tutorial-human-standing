@@ -157,25 +157,6 @@ From the terminal, navigate to the extracted tutorial directory, for example::
 
    $ cd /home/username/pydy-tutorial-human-standing
 
-Check the environment
----------------------
-
-To make sure your software environment is correctly setup, run the
-`check_env.py` script in a terminal with::
-
-   $ python check_env.py
-
-If no errors are returned, then you've correctly installed the software and can
-run the tutorial. If errors appear, then install or upgrade the software as
-needed.
-
-Open a terminal window in the ``notebooks`` directory and type::
-
-   $ cd notebooks
-   $ ipython notebook
-
-Your web browser should open and you see a list of all the notebooks and can
-click to open them and execute.
 
 Notebooks
 =========
