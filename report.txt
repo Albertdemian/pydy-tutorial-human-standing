@@ -1,0 +1,25 @@
+Name: Albert Demian
+
+First I forked the repository from link in google sheet 
+
+cloned the repo to my local machine 
+
+modifications: 
+- created branch arms and added some modifications to readme and commited them
+
+- created sub-branch "fingers" and did some modifications and commit
+- tried to merge "fingers" back to arms ions were in conflict 
+
+- I had to discard some modifications and then merged branches successfully
+
+- then merged "arms" to "master" 
+
+- created 4 branches "left_arm", "right_arm", "left_leg" and "right_leg" 
+
+- did modifications to the readme file in all of them and commited them then pushed to server
+
+- while merging back to master I managed to merge 3 branches out of 4 
+
+- Turns out I did the same mistake with "right_arm" branch and tried to merge conflicts but this time conflicts were many 
+
+- I merged the 3 branches but I deleted the last branch "right_arm" 
