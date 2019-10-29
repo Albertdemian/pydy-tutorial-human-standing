@@ -1,3 +1,6 @@
+
+Hello welcome to the Programming world. your code may work and may not but in both cases you will have no idea why. 
+
 Introduction
 ============
 
@@ -160,6 +163,7 @@ From the terminal, navigate to the extracted tutorial directory, for example::
 
 Notebooks
 =========
+
 
 These are the notebooks for the tutorial.
 
